@@ -6,6 +6,20 @@ A React-based frontend application for indie game development team collaboration
 
 **Deployed Application**: https://indie-game-hub-2024.uc.r.appspot.com
 
+## 📱 Application Screenshots
+
+### Task Management Features
+![Task Functionality](task%20function.png)
+*Complete task management with CRUD operations, status tracking, and priority management*
+
+### Adding New Tasks
+![Add Task](add_task.png)
+*Modal form for creating new tasks with validation and form controls*
+
+### Application Interface
+![Application Interface](截屏2025-08-13%2023.44.25.png)
+*Main application interface showing the gaming-themed design and navigation*
+
 ## 🚀 Technology Stack
 
 - **React** (v19.1.1) - User interface framework
