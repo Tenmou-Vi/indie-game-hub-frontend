@@ -8,17 +8,17 @@ A React-based frontend application for indie game development team collaboration
 
 ## 📱 Application Screenshots
 
-### Task Management Features
-![Task Functionality](task%20function.png)
-*Complete task management with CRUD operations, status tracking, and priority management*
+### Google OAuth Login
+![Login Interface](login.png)
+*Modern Google OAuth login interface with the gaming theme design*
 
-### Adding New Tasks
-![Add Task](add_task.png)
-*Modal form for creating new tasks with validation and form controls*
+### Asset Management System
+![Asset Management](asset_management.png)
+*Complete asset management with CRUD operations, categorization, and file handling*
 
-### Application Interface
-![Application Interface](截屏2025-08-13%2023.44.25.png)
-*Main application interface showing the gaming-themed design and navigation*
+### Task Creation Interface
+![Create Task](create_task.png)
+*Task creation modal with form validation and priority management*
 
 ## 🚀 Technology Stack
 
