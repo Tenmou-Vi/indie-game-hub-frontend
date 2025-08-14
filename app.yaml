@@ -8,7 +8,3 @@ automatic_scaling:
   max_instances: 5
 
 entrypoint: npm start
-
-handlers:
-- url: /.*
-  script: auto
