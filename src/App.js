@@ -11,6 +11,7 @@ import Assets from './pages/Assets';
 import TaskBoard from './pages/TaskBoard';
 import Team from './pages/Team';
 import Versions from './pages/Versions';
+import GoogleCallback from './pages/GoogleCallback';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
               <Route path="/tasks" element={<TaskBoard />} />
               <Route path="/team" element={<Team />} />
               <Route path="/versions" element={<Versions />} />
+              <Route path="/auth/google/callback" element={<GoogleCallback />} />
             </Routes>
           </main>
         </div>
